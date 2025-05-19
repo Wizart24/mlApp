@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MLAppAPI.Controllers.PredictController",
+    "Method": "Predict",
+    "RelativePath": "api/Predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MLAppAPI.Models.PredictionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
