@@ -16,7 +16,10 @@ namespace MLAppAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddSingleton<IModelService, ModelService>();
-            builder.WebHost.UseUrls("http://0.0.0.0:5000");
+
+            // Use the PORT environment variable or default to 5000
+            var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+            builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
 
             var app = builder.Build();
 
