@@ -58,3 +58,4 @@ D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\refint\MLAppAPI.dll
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.pdb
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.genruntimeconfig.cache
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\ref\MLAppAPI.dll
+D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.sourcelink.json

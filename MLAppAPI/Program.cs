@@ -16,6 +16,7 @@ namespace MLAppAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddSingleton<IModelService, ModelService>();
+            builder.WebHost.UseUrls("http://0.0.0.0:5000");
 
             var app = builder.Build();
 

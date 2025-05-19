@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\MLApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\services\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MLAppAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
+              "RelativeToolTip": "MLAppAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:41:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ModelService.cs",
               "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\ModelService.cs",
               "RelativeDocumentMoniker": "MLAppAPI\\Services\\ModelService.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\ModelService.cs",
               "RelativeToolTip": "MLAppAPI\\Services\\ModelService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T12:17:30.755Z",
               "EditorCaption": ""
@@ -53,7 +70,7 @@
               "RelativeDocumentMoniker": "MLAppAPI\\Controllers\\PredictController.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\PredictController.cs",
               "RelativeToolTip": "MLAppAPI\\Controllers\\PredictController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T12:17:24.094Z",
               "EditorCaption": ""
