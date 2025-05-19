@@ -17,6 +17,12 @@ namespace MLAppAPI.Controllers
             _modelService = modelService;
         }
 
+        [HttpGet]
+        public IActionResult Info()
+        {
+            return Ok("Servisas...");
+        }
+
         [HttpPost]
         public async Task<IActionResult> Predict(PredictionRequest request)
         {
