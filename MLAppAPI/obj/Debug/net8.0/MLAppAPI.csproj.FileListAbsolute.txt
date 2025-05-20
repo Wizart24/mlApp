@@ -59,3 +59,4 @@ D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.pdb
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.genruntimeconfig.cache
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\ref\MLAppAPI.dll
 D:\Projects\MLApp\MLAppAPI\obj\Debug\net8.0\MLAppAPI.sourcelink.json
+D:\Projects\MLApp\MLAppAPI\bin\Debug\net8.0\Models\corrosionModel.zip
