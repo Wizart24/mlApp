@@ -18,7 +18,7 @@ namespace MLAppAPI.Services
 
         private async Task LoadModelAsync()
         {
-            var modelPath = "D:\\Projects\\MLApp\\MLAppAPI\\corrosionModel.zip";
+            var modelPath = Path.Combine(AppContext.BaseDirectory, "Models", "corrosionModel.zip");
             var mlContext = new MLContext();
 
             if (!File.Exists(modelPath))
