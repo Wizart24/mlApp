@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLAppAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e89e486b664b101ba64b4fb328509c2819089f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a10a7ee8945c01a1b1c0b32fc23db03cd2518d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLAppAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLAppAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

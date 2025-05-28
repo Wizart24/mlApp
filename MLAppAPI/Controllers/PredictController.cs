@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.ML;
 using MLAppAPI.Models;
-using MLAppAPI.Services;
+using MLAppAPI.Services.Interfaces;
 
 namespace MLAppAPI.Controllers
 {

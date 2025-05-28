@@ -1,5 +1,6 @@
 ﻿using Microsoft.ML;
 using MLAppAPI.Models;
+using MLAppAPI.Services.Interfaces;
 
 namespace MLAppAPI.Services
 {
