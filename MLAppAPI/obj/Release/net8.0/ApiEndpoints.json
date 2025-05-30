@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "MLAppAPI.Controllers.FileUploadController",
+    "Method": "GetDataFilesList",
+    "RelativePath": "api/FileUpload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MLAppAPI.Controllers.FileUploadController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/FileUpload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataFile",
+        "Type": "MLAppAPI.Models.DataFile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MLAppAPI.Controllers.PredictController",
+    "Method": "Info",
+    "RelativePath": "api/Predict",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MLAppAPI.Controllers.PredictController",
+    "Method": "Predict",
+    "RelativePath": "api/Predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MLAppAPI.Models.PredictionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
