@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projects\\MLApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\models\\datafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\models\\datafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\entity\\datafiledbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\entity\\datafiledbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\controllers\\predictcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,65 +42,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PredictController.cs",
-              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\PredictController.cs",
-              "RelativeDocumentMoniker": "MLAppAPI\\Controllers\\PredictController.cs",
-              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\PredictController.cs",
-              "RelativeToolTip": "MLAppAPI\\Controllers\\PredictController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwC0AAABLAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DataFile.cs",
+              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Models\\DataFile.cs",
+              "RelativeDocumentMoniker": "MLAppAPI\\Models\\DataFile.cs",
+              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Models\\DataFile.cs",
+              "RelativeToolTip": "MLAppAPI\\Models\\DataFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T05:09:21.877Z",
+              "WhenOpened": "2025-05-28T11:19:28.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DataFileDbContextFactory.cs",
-              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Entity\\DataFileDbContextFactory.cs",
-              "RelativeDocumentMoniker": "MLAppAPI\\Entity\\DataFileDbContextFactory.cs",
-              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Entity\\DataFileDbContextFactory.cs",
-              "RelativeToolTip": "MLAppAPI\\Entity\\DataFileDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T12:27:58.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
               "RelativeDocumentMoniker": "MLAppAPI\\Program.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
               "RelativeToolTip": "MLAppAPI\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:50:54.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T08:52:38.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FileUploaderService.cs",
               "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\FileUploaderService.cs",
               "RelativeDocumentMoniker": "MLAppAPI\\Services\\FileUploaderService.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\FileUploaderService.cs",
               "RelativeToolTip": "MLAppAPI\\Services\\FileUploaderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:29:22.733Z",
+              "WhenOpened": "2025-05-28T08:45:24.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileUploadController.cs",
               "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\FileUploadController.cs",
               "RelativeDocumentMoniker": "MLAppAPI\\Controllers\\FileUploadController.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\FileUploadController.cs",
               "RelativeToolTip": "MLAppAPI\\Controllers\\FileUploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:08:56.153Z",
               "EditorCaption": ""
