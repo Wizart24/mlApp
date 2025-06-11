@@ -26,6 +26,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "MLAppAPI.Controllers.FileUploadController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/FileUpload",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MLAppAPI.Controllers.PredictController",
     "Method": "Info",
     "RelativePath": "api/Predict",

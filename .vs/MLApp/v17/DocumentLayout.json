@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\MLApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\models\\datafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\models\\datafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\services\\fileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\services\\fileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\controllers\\fileuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\services\\fileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\services\\fileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|d:\\projects\\mlapp\\mlappapi\\services\\interfaces\\ifileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC6B35E-027E-4BDB-8F70-178590424E7C}|MLAppAPI\\MLAppAPI.csproj|solutionrelative:mlappapi\\services\\interfaces\\ifileuploaderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileUploaderService.cs",
+              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\Interfaces\\IFileUploaderService.cs",
+              "RelativeDocumentMoniker": "MLAppAPI\\Services\\Interfaces\\IFileUploaderService.cs",
+              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\Interfaces\\IFileUploaderService.cs",
+              "RelativeToolTip": "MLAppAPI\\Services\\Interfaces\\IFileUploaderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:48:08.708Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -43,37 +52,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataFile.cs",
-              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Models\\DataFile.cs",
-              "RelativeDocumentMoniker": "MLAppAPI\\Models\\DataFile.cs",
-              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Models\\DataFile.cs",
-              "RelativeToolTip": "MLAppAPI\\Models\\DataFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T11:19:28.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
-              "RelativeDocumentMoniker": "MLAppAPI\\Program.cs",
-              "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Program.cs",
-              "RelativeToolTip": "MLAppAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:52:38.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FileUploaderService.cs",
               "DocumentMoniker": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\FileUploaderService.cs",
               "RelativeDocumentMoniker": "MLAppAPI\\Services\\FileUploaderService.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Services\\FileUploaderService.cs",
               "RelativeToolTip": "MLAppAPI\\Services\\FileUploaderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T08:45:24.507Z",
               "EditorCaption": ""
@@ -86,7 +70,7 @@
               "RelativeDocumentMoniker": "MLAppAPI\\Controllers\\FileUploadController.cs",
               "ToolTip": "D:\\Projects\\MLApp\\MLAppAPI\\Controllers\\FileUploadController.cs",
               "RelativeToolTip": "MLAppAPI\\Controllers\\FileUploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:08:56.153Z",
               "EditorCaption": ""

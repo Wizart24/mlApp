@@ -8,5 +8,7 @@ namespace MLAppAPI.Services.Interfaces
         public Task CreateAsync(DataFile dataFile);
 
         public Task<List<DataFile>> GetListAsync();
+
+        public Task UpdateAsync(DataFile dataFile);
     }
 }

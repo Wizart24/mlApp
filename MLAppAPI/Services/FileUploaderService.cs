@@ -24,5 +24,21 @@ namespace MLAppAPI.Services
         {
             return await _context.DataFiles.ToListAsync();
         }
+
+        public async Task UpdateAsync(DataFile dataFile)
+        {
+            var data = await _context.DataFiles.FirstOrDefaultAsync(x => x.Title == dataFile.Title);
+
+            if (data == null)
+                throw new InvalidOperationException("Data file was not found.");
+
+            data.Title = dataFile.Title;
+            data.CreatedDate = dataFile.CreatedDate;
+            data.FileData = dataFile.FileData;
+            data.DataType = dataFile.DataType;
+            data.Description = dataFile.Description;
+
+            await _context.SaveChangesAsync();
+        }
     }
 }

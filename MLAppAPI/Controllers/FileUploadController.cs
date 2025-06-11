@@ -44,5 +44,19 @@ namespace MLAppAPI.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateAsync([FromBody] DataFile dataFile)
+        {
+            try
+            {
+                await _fileUploaderService.UpdateAsync(dataFile);
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
     }
 }

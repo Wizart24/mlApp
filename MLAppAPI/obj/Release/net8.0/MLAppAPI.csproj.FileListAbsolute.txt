@@ -162,12 +162,6 @@ D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\scopedcss\bundle\MLAppAPI.styles.c
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.build.json
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.development.json
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.build.endpoints.json
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets\msbuild.MLAppAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets\msbuild.MLAppAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets\msbuild.build.MLAppAPI.props
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.MLAppAPI.props
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.MLAppAPI.props
-D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.pack.json
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\MLAppAPI.csproj.Up2Date
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\MLAppAPI.dll
@@ -175,3 +169,8 @@ D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\refint\MLAppAPI.dll
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\MLAppAPI.pdb
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\MLAppAPI.genruntimeconfig.cache
 D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\ref\MLAppAPI.dll
+D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\rpswa.dswa.cache.json
+D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\rjimswa.dswa.cache.json
+D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+D:\Projects\MLApp\MLAppAPI\obj\Release\net8.0\staticwebassets.build.json.cache
